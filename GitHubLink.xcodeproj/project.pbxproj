@@ -156,6 +156,8 @@
 		ECE8B1A51CB70C9100377031 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "David Serrano";
 				TargetAttributes = {
@@ -411,6 +413,7 @@
 				ECE8B1CE1CB70C9200377031 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECE8B1CF1CB70C9200377031 /* Build configuration list for PBXNativeTarget "GitHubLinkTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +422,7 @@
 				ECE8B1D11CB70C9200377031 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
